@@ -5,3 +5,4 @@ target/
 *.log
 Thumbs.db
 .DS_Store
+.m2-repository/
