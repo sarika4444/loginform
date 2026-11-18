@@ -3,3 +3,4 @@
 README.md
 selenium-tests
 *.log
+.m2-repository/
